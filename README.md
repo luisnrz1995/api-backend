@@ -124,7 +124,7 @@ Este proyecto es de uso educativo, creado para fines formativos dentro del SENA.
 
 _Evidencia GA4-220501096-AA1-EV01. API del proyecto_  
 _Luis Eduardo Narváez Madera_  
-_Servicio Nacional de Aprendizaje - SENA_
+_Servicio Nacional de Aprendizaje - SENA_  
 _Técnico en Programación de Software_  
 _Ficha 3069978_  
 _Miguel Ángel López Cacho_  
