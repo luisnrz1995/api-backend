@@ -79,7 +79,7 @@ inventario-apis/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/inventario-apis.git
+git clone https://github.com/luisnrz1995/api-backend.git
 cd inventario-apis
 ```
 
